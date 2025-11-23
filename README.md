@@ -1,6 +1,6 @@
 # Ex.No: 1(A) PLOT A TIME SERIES DATA
-### Name: SHYAM S
-### Reg.No: 212223240156
+#### Name: SHYAM S
+#### Reg.No: 212223240156
 
 # AIM:
 To develop a Python program to plot month-wise total money spent on coffee using transaction data to analyze spending trends.
