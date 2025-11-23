@@ -1,5 +1,4 @@
 # Ex.No: 1(A) PLOT A TIME SERIES DATA
-### Date: 12/08/2025
 ### Name: SHYAM S
 ### Reg.No: 212223240156
 
